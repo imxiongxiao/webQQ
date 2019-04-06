@@ -1,0 +1,9 @@
+{
+  "name": "click",
+  "version": "1.0.0",
+  "description": "Electron click application",
+  "main": "electron.js",
+  "scripts": {
+    "start": "electron ."
+  }
+}

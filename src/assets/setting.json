@@ -1,0 +1,9 @@
+{
+    "qqs":[
+        {"qqname": "点击网络","type":2,"qq":"514343378","desc":"点击网络群"}
+        ,{"qqname": "有趣的群","type":2,"qq":"221941055","desc": "我的有趣的群 221941055"}
+        ,{"qqname":"开发者说","type":1,"qq":"1019443290","desc": "这是开发者的QQ 1019443290"}
+    ]
+    ,"showDev": {"showGithub":true,"devUrl": "https://github.com/imxiongxiao/imxiongxiao.github.io"}
+    ,"path":"ws://182.254.133.233:49632"
+}
